@@ -1,0 +1,6 @@
+pyttsx3
+streamlit 
+python-dotenv
+requests
+openai
+gtts
